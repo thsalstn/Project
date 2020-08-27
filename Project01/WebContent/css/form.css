@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#content {
+	border: 1px solid gold;
+	width: 450px;
+	height: 100px;
+	overflow: auto;
+	padding: 15px;
+	
+}
+#social_b {
+	width: 50px;
+	height: 50px;
+}
+#hed {
+	margin: 0 auto;
+	box-shadow: 2px 5px 5px 0px #eee;
+	max-width: 490px;
+	padding-top: 10px;
+	height: 1000px;
+	margin-top: 50px;
+}
+
+.jumbotron {
+	margin: 0;
+}
+
+
+
+#inputMessage {
+	margin: 0;
+}
+
+#messageWindow {
+	margin-top: 10px;
+}
